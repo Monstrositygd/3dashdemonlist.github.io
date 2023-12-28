@@ -13,6 +13,17 @@ const d = {
     },
     {
       "vids": [
+	      
+	],
+	    "name": "Methedrone",
+	    "author": "Zippiks [sydno]",
+	    "id": "6059",
+	    "percentToQualify": 100,
+	    "verificationVid": "https://www.youtube.com/watch?v=pjh1_ItidCo",
+	    "key": 1
+	
+    {
+      "vids": [
         {
           "user": "Valts",
           "link": "https://youtu.be/w6lEBJFfs3E",
@@ -24,7 +35,7 @@ const d = {
       "id": "618",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=D8TTZ5r2KIQ",
-      "key": 1
+      "key": 2
     }, 
     {
       "vids": [
@@ -35,7 +46,7 @@ const d = {
       "id": "6580",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=I0frD27tFbI",
-      "key": 2
+      "key": 3
     },
     {
       "vids": [
@@ -61,7 +72,7 @@ const d = {
       "extra": "LDM ID: 5910",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=1z_iB5G0Cro",
-      "key": 3
+      "key": 4
     },
     {
       "vids": [
@@ -76,7 +87,7 @@ const d = {
       "id": "1282",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/rmh4gDw5n50",
-      "key": 4
+      "key": 5
     }, {
       "vids": [
 
@@ -86,7 +97,7 @@ const d = {
       "id": "1281",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/n3MRA4Lic40",
-      "key": 5
+      "key": 6
     }, 
     {
       "vids": [
@@ -101,7 +112,7 @@ const d = {
       "id": "3480",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/yuXDAaySvi4",
-      "key": 6
+      "key": 7
     },
     {
       "vids": [
@@ -111,7 +122,7 @@ const d = {
       "id": "6851",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=JbjijXWMZo4",
-      "key": 7
+      "key": 8
     },{
       "vids": [
 
@@ -121,7 +132,7 @@ const d = {
       "id": "3469",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/ZJxiEhLJGnA",
-      "key": 8
+      "key": 9
     },
     {'vids': [
       ],
@@ -141,7 +152,7 @@ const d = {
       "id": "9588",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=99_wzT3ilsE",
-      "key": 10,
+      "key": 11,
        },
       {   
       "vids": [
@@ -152,7 +163,7 @@ const d = {
       "id": "3283",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ft5LA-VAPOo",
-      "key": 11,
+      "key": 12,
     },
     {
       "vids": [
@@ -163,7 +174,7 @@ const d = {
       "id": "6903",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ZukmOxm4sCE",
-      "key": 12,
+      "key": 13,
     },
     {
       "vids": [
@@ -213,7 +224,7 @@ const d = {
       "id": "4725",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=K04wUybT_iw&t=6s",
-      "key": 13,
+      "key": 14,
     },
           {
       "vids": [
@@ -224,7 +235,7 @@ const d = {
       "id": "34",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/_ONyjNilEYw",
-      "key": 14
+      "key": 15
     },
     {'vids': [
       ],
@@ -233,7 +244,7 @@ const d = {
       'id': '7827',
       'percentToQualify': 100,
       'verificationVid': 'https://www.youtube.com/watch?v=yZBN4yLFgq4',
-      'key': 15,
+      'key': 16,
     },
     {
       "vids": [
@@ -244,7 +255,7 @@ const d = {
       "id": "5126",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/H1SQ0SRBP0s",
-      "key": 16,
+      "key": 17,
     },
     {
       "vids": [
@@ -254,7 +265,7 @@ const d = {
       "id": "7327",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kEN4OQrRz8s",
-      "key": 17,
+      "key": 18,
     },
     {
       "vids": [
@@ -269,7 +280,7 @@ const d = {
       "id": "4688",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=CV43GRwz9Xo",
-      "key": 18,
+      "key": 19,
     },
     {
       "vids": [
@@ -299,7 +310,7 @@ const d = {
       "id": "5818",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/ptPDz9pWDsw",
-      "key": 19,
+      "key": 20,
     },
     {
 		"vids": [
@@ -310,7 +321,7 @@ const d = {
 		"id": "6964",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=hoCkoiB94G4",
-		"key": 20,
+		"key": 21,
 	  },
     {
       "vids": [
@@ -321,7 +332,7 @@ const d = {
       "id": "6997",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=4hljJjZ9LFM",
-      "key": 21
+      "key": 22
     },
     {
       "vids": [
@@ -347,7 +358,7 @@ const d = {
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/OyURGpOx7Do?t=447",
-      "key": 22,
+      "key": 23,
     },
     {
       "vids": [
@@ -373,7 +384,7 @@ const d = {
       "id": "5317",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ajN3JIz0g_Y",
-      "key": 23,
+      "key": 24,
     },
     {
       "vids": [
@@ -398,7 +409,7 @@ const d = {
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "",
-      "key": 24,
+      "key": 25,
     },
     {
       "vids": [
@@ -434,7 +445,7 @@ const d = {
       "id": "5127",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/z6axDCYUdzc",
-      "key": 25,
+      "key": 26,
     }, 
     {
       "vids": [
@@ -469,7 +480,7 @@ const d = {
       "id": "3 (WoW)",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/nNnkL9CPBds",
-      "key": 26,
+      "key": 27,
     },  
     {
       "vids": [
@@ -489,7 +500,7 @@ const d = {
       "id": "5128",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/jMkUtiWwDQ8",
-      "key": 27
+      "key": 28
     }, {
       "vids": [
         {
@@ -503,7 +514,7 @@ const d = {
       "id": "1348",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/PFZY1_Zuumw",
-      "key": 28
+      "key": 29
     }, {
       "vids": [
         {
@@ -532,7 +543,7 @@ const d = {
       "id": "3755",
       "percentToQualify": 80,
       "verificationVid": "https://www.youtube.com/watch?v=4tBLjTmnm2A",
-      "key": 29
+      "key": 30
     }, {
       "vids": [
         {
@@ -571,7 +582,7 @@ const d = {
       "id": "3510",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/B5MNwvEMdag",
-      "key": 30
+      "key": 31
     },
     {
       "vids": [
@@ -596,7 +607,7 @@ const d = {
       "id": "5129",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=IP3DpKoU8QU",
-      "key": 31
+      "key": 32
     }, 
     {
 			"vids": [
@@ -633,7 +644,7 @@ const d = {
       "id": "3607",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4QVNtcaEeT0",
-      "key": 30
+      "key": 33
     }, {
       "vids": [
         {
@@ -647,7 +658,7 @@ const d = {
       "id": "5130",
       "percentToQualify": 75,
       "verificationVid": "https://youtu.be/sE8yXUJ_JNc",
-      "key": 33
+      "key": 43
     }, 
     {
       "vids": [
